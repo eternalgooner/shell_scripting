@@ -1,0 +1,6 @@
+test
+new line
+hello
+goodbye
+append this to a file
+append this to a file
